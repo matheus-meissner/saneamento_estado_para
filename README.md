@@ -48,7 +48,7 @@ pip install pandas geopandas matplotlib seaborn unidecode
   - Coloque todos os arquivos (`.shp`, `.shx`, `.dbf`, etc) na pasta `dados_shapefile/`.
 
   > Você pode obter o shapefile em:  
-  > https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/2022/municipio_2022/UFs/PA/
+  > https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2022/UFs/PA/PA_Municipios_2022.zip
 
 ---
 
