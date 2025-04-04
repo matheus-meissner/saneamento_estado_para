@@ -100,9 +100,3 @@ Este projeto utiliza `unidecode` para evitar problemas com acentuação em nomes
 **Matheus Meissner**  
 🔗 [GitHub](https://github.com/matheus-meissner)  
 🎓 Análise e Desenvolvimento de Sistemas | Produção Fonográfica
-
----
-
-## 📄 Licença
-
-MIT – Livre para uso e modificação com atribuição.
